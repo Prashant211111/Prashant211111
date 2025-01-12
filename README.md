@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body align="center">
 ![logo](https://github.com/Prashant211111/Prashant211111/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Prashant Kushwaha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>

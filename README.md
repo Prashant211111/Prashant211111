@@ -29,9 +29,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/prashant0192"> <img align="left" width="210" height="45" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prashant0192" /></a></p><br><br>
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant211111&show_icons=true&locale=en&layout=compact" alt="Prashant211111" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Prashant211111&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prashant211111&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant211111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=Prashant211111&show_icons=true&locale=en" alt="Prashant211111" /></p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prashant211111&theme=elegant)](https://git.io/streak-stats)
+---
+[![](https://visitcount.itsvg.in/api?id=Prashant211111&icon=0&color=0)](https://visitcount.itsvg.in)
